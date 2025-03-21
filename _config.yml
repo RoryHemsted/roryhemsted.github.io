@@ -73,15 +73,7 @@ author:
       url: "https://instagram.com/geo_graphixx"
 
 footer:
-  - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky-square"
-      url: "https://bsky.app/profile/roryhemsted.bsky.social/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/roryhemsted"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/geo_graphixx"
+  
 
 defaults:
   # _posts
