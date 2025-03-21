@@ -1,8 +1,14 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /Projects/
+title: "Projects"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# Interactive NATO Map
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+NATO members need to increase defense spending by "considerably more than 3%", NATO Secretary General, Mark Rutte, has stated in a [recent interview](https://www.politico.eu/article/mark-rutte-nato-defense-spending-target-considerably-more-3-percent-munich-security-conference/). These comments came at a time of increased uncertainty over the future of NATO, with the backdrop of the Russo-Ukrainian War and Trump's increasingly isolationist, "America First" policies.
+
+By clicking on each country and selecting the variable to display, you can explore defense expenditure and active military personnel in each NATO country.
+
+<iframe src="https://geographix.shinyapps.io/NATO_Map/" width="1000" height="800" style="border: none;">
+
+*Shiny App created in R using the Leaflet package*
