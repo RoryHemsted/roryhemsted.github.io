@@ -62,8 +62,11 @@ author:
   avatar : "/assets/images/headshot.jpg"
   bio    : "Master's student in Data Analytics and Social Statistics."
   links:
+   - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/roryhemsted"
     - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky-square"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/roryhemsted.bsky.social/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -73,7 +76,19 @@ author:
       url: "https://instagram.com/geo_graphixx"
 
 footer:
-  
+  links:
+   - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/roryhemsted"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/roryhemsted.bsky.social/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/roryhemsted"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/geo_graphixx"
 
 defaults:
   # _posts
