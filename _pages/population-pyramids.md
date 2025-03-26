@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Population Pyramids"
-permalink: /projects/nato-map/
+permalink: /projects/population-pyramids/
 sidebar: true
 ---
 
