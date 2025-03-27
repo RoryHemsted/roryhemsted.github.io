@@ -21,7 +21,7 @@ title                    : "Rory Hemsted"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Rory Hemsted"
-description              : "An amazing website."
+description              : "Rory Hemsted Data Analyst portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "roryhemsted/roryhemsted.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,8 @@ analytics:
 author:
   name   : "Rory Hemsted"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "Master's student in Data Analytics and Social Statistics."
+  bio    : "Data Analyst"
+  location: "Manchester, UK"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
